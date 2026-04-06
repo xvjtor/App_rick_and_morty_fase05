@@ -4,23 +4,23 @@ Aplicativo desenvolvido em Flutter para a fase 5 do curso de desenvolvimento mob
 
 # Sobre o aplicativo
 Este projeto tem como objetivo explorar conceitos modernos de desenvolvimento mobile utilizando Flutter, incluindo:
-  Consumo de API REST
-  Gerenciamento de estado
-  Componentização de widgets
-  UI responsiva (Grid / List)
-  Carregamento paginado (infinite scroll)
-  Geração dinâmica de cores
-  Animações entre telas
-  Filtragem de lista (barra de pesquisa)
-  Injeção de dependência
+  Consumo de API REST  
+  Gerenciamento de estado  
+  Componentização de widgets  
+  UI responsiva (Grid / List)  
+  Carregamento paginado (infinite scroll)  
+  Geração dinâmica de cores  
+  Animações entre telas  
+  Filtragem de lista (barra de pesquisa)  
+  Injeção de dependência  
 
 # Funcionalidades
-  Busca de personagens
-  Listagem com paginação infinita
-  Alternância entre GridView e ListView
-  Cores dinâmicas baseadas na imagem do personagem
-  Carregamento otimizado com cache de imagens
-  Indicador de loading ao chegar no final da lista
+  Busca de personagens  
+  Listagem com paginação infinita  
+  Alternância entre GridView e ListView  
+  Cores dinâmicas baseadas na imagem do personagem  
+  Carregamento otimizado com cache de imagens  
+  Indicador de loading ao chegar no final da lista  
 
 
 ## Estrutura do Projeto
