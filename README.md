@@ -2,7 +2,7 @@
 Aplicativo desenvolvido em Flutter para a fase 5 do curso de desenvolvimento mobile da Growdev. Rick and Morty App tem como foco o consumo de API, boas práticas de arquitetura, performance e experiência de usuário.
 
 
-# Sobre o aplicativo
+## Sobre o aplicativo
 Este projeto tem como objetivo explorar conceitos modernos de desenvolvimento mobile utilizando Flutter, incluindo:
   Consumo de API REST  
   Gerenciamento de estado  
@@ -14,7 +14,7 @@ Este projeto tem como objetivo explorar conceitos modernos de desenvolvimento mo
   Filtragem de lista (barra de pesquisa)  
   Injeção de dependência  
 
-# Funcionalidades
+## Funcionalidades
   Busca de personagens  
   Listagem com paginação infinita  
   Alternância entre GridView e ListView  
