@@ -20,7 +20,18 @@ Este projeto tem como objetivo explorar conceitos modernos de desenvolvimento mo
   Alternância entre GridView e ListView  
   Cores dinâmicas baseadas na imagem do personagem  
   Carregamento otimizado com cache de imagens  
-  Indicador de loading ao chegar no final da lista  
+  Indicador de loading ao chegar no final da lista 
+
+## Tecnologias
+
+- Flutter
+- Dart
+- MobX
+- GetIt
+- Dio
+- REST API
+- CachedNetworkImage
+- PaletteGenerator
 
 
 ## Estrutura do Projeto
